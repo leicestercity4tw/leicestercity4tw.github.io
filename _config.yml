@@ -11,6 +11,10 @@ description: My IT blogs
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: http://www.lottonetwork.com/public/images/client_img/leicester-city-case-study-logo.jpg
 
+# Storage of post images and assets
+post_assets: images
+general_assets: images
+
 #
 # Flags below are optional
 #
