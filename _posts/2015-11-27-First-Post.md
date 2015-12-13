@@ -10,6 +10,8 @@ published: true
 
 This is the first lesson that I am going to write a blog about. I will be doing this once a week for all of my IT lessons. This is how I will be doing them;
 
+In this lesson we created our own blog and started to personalise them.
+
 **Pros: **I really enjoying creating a blog, it was great seeing my ideas really coming to life
 
 **Cons: **It was quite hard to start with because I didn't properly understand what our teacher was saying
