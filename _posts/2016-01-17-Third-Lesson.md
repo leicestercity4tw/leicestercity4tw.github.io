@@ -6,7 +6,7 @@ permalink: /third-lesson/
 source-id: 16Olo7aLlT6D0xp8V--ztYGvW_bSxpFeCNn6XgRCT_6g
 published: true
 ---
-**Second Lesson**
+**Third Lesson**
 
 This is the third lesson that I will be blogging about…
 
