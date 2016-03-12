@@ -12,7 +12,7 @@ published: true
 
 Peripherals are devices that are vital for all of the tasks that you may need to be accomplished. They come in two groups: inputs and outputs
 
-**Inputs	**Microphone			Camera	Scanner
+**Inputs		**Microphone			Camera	Scanner
 
 **Outputs**	Speakers or headphones	Monitor	Printer
 
@@ -36,7 +36,7 @@ The most common way of contracting a virus on your computer is through attachmen
 
 **Worms:**		Worms are like viruses except the user doesn't need to open anything for the program to launch. They copy themselves through different computers.
 
-**Trojan:		**Trojans are
+**Trojan:		**A trojan virus is a facade, it makes the user believe that it is a good, useful piece of software. Lots of people download these as a result of them being tricked. After it has been downloaded it will start maliciously attacking the device.
 
-**Zombienet/Botnet:	**These two words mean the exact same thing.
+**Zombienet/Botnet:	**These two words mean the exact same thing (just to clear that up). These things aren't actually viruses but they are computers that, without their user’s consent, forward viruses and spam to other computers. 
 
