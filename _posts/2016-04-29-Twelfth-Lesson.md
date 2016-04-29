@@ -12,19 +12,7 @@ This is the twelfth lesson that I will be blogging about…
 
 At the beginning of this lesson our teacher showed us a YouTube video. It was of the scene in the first Harry Potter film where the sorting hat puts the students into their different houses. He then told us that this lesson was going to be entirely devoted to the micro:bit, again. However we were going to be focusing on creating a program that could randomly choose a house for anyone that wanted to have a try. Firstly we went through, if the sorting hat was a computer program, what steps it would take to choose the house. It went like this…
 
-<table>
-  <tr>
-    <td>Input</td>
-    <td>Process</td>
-    <td>Output</td>
-  </tr>
-  <tr>
-    <td>The boy putting on the hat.</td>
-    <td>It picks a random house.</td>
-    <td>The hat saying the name of his house.</td>
-  </tr>
-</table>
-
+**Input**			The boy putting on the hat.**Process**		It picks a random house.**Output**		The hat saying the name of his house.
 
 We then followed a tutorial to create a sorting hat but we did it on a different type of code (Touch Develop). It was really easy though as we just followed some easy instructions.
 
