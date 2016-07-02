@@ -14,6 +14,14 @@ This lesson started *really* well as we finally received our micro:bits. Even ou
 
 But it obviously had lots more suggestions from the whole class but I couldn't remember everything. 
 
+This lesson we got some homework, it was to read two news articles; one on sexting and one on revenge porn. Here they are…
+
+[http://www.bbc.co.uk/news/education-35858169](http://www.bbc.co.uk/news/education-35858169)
+
+[http://www.bbc.co.uk/news/uk-england-36054273](http://www.bbc.co.uk/news/uk-england-36054273)
+
+I found both of the websites on the BBC website
+
 **Pros:** It was really useful that we got to talk about things on the internet in privacy
 
 **Cons:** We were very excited at the start when we got our micro:bits but some people couldn't concentrate after
