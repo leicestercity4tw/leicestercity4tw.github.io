@@ -10,7 +10,7 @@ published: true
 
 This is the second lesson of year 8 that I will be blogging about.
 
-In this lesson we continued to follow the instructions stated in the booklet. It is becoming *very* repetitive as the whole of the code was laid out before us. We started to become slightly distracted and ended up just messing about with our own code. 
+In this lesson we continued to follow the instructions stated in the booklet. We started to become slightly distracted and ended up just messing about with our own code. 
 
 **Pros:** We completed lots of other codes
 
