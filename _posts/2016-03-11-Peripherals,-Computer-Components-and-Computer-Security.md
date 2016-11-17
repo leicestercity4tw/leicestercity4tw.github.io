@@ -12,7 +12,7 @@ published: true
 
 Peripherals are devices that are vital for all of the tasks that you may need to be accomplished. They come in two groups: inputs and outputs
 
-**Inputs		**Microphone			Camera	Scanner
+**Inputs**  Microphone			Camera	Scanner
 
 **Outputs**	Speakers or headphones	Monitor	Printer
 
@@ -20,9 +20,9 @@ Peripherals are devices that are vital for all of the tasks that you may need to
 
 The three main components in a computer are: hard drive, RAM (Random Access Memory) and the CPU (Central Processing Unit).
 
-**Hard Drive:	**	This component stores all of the long-term memory such as documents, pictures, music and videos. If you turn off your computer all of the information is logged on the hard disk in a series of 1s and 0s.
+**Hard Drive:**	This component stores all of the long-term memory such as documents, pictures, music and videos. If you turn off your computer all of the information is logged on the hard disk in a series of 1s and 0s.
 
-**RAM:			**This component stores short-term memory i.e. the website you are on. It is a lot faster than a hard drive so it is more efficient. However it has much less storage space.
+**RAM:**  This component stores short-term memory i.e. the website you are on. It is a lot faster than a hard drive so it is more efficient. However it has much less storage space.
 
 **CPU:**			This is mostly called the 'brains' of the computer because it carries out the processes needed to run any software.
 
