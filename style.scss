@@ -18,10 +18,7 @@ html {
 }
 
 body {
-	background-image: url("www.wallpapercave.com/wp/4CPD0e9.jpg");
-	background-repeat: no-repeat;
-	background-position: right top;
-	background-attachment: fixed;
+	background: #9999ff;
   font: 18px/1.4 $helvetica;
   color: $darkGray;
 }
@@ -39,7 +36,7 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: bold;
 
   line-height: 1.7;
-  margin: 1em 0 15px
+  margin: 1em 0 15px;
   padding: 0;
 
   @include mobile {
@@ -48,7 +45,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  font-size: 32px;
+  font-size: 30px;
   a {
     color: inherit;
   }
@@ -195,7 +192,7 @@ img {
 
 .site-name {
   margin: 0;
-  color: #101010;
+  color: $darkGray;
   cursor: pointer;
   font-family: $helveticaNeue;
   font-weight: 300;
@@ -205,7 +202,7 @@ img {
 
 .site-description {
   margin: -5px 0 0 0;
-  color: #707070;
+  color: $gray;
   font-size: 16px;
 
   @include mobile {
