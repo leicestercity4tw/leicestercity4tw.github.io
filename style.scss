@@ -36,7 +36,7 @@ body {
   width: 100%;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
   color: #ffffff;
   font-weight: bold;
@@ -67,7 +67,7 @@ h3 {
 
 h4 {
   font-size: 18px;
-  color: #ffffffff;
+  color: #ffffff;
 }
 
 p {
@@ -79,7 +79,7 @@ a {
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: $white;
+    color: #ff0000;
   }
 }
 
