@@ -53,7 +53,7 @@ h2, h3, h4, h5, h6 {
 h1 {
   font-size: 32px;
   a {
-    color: #ffffff;
+    color: #ff0000;
   }
 }
 
@@ -67,7 +67,7 @@ h3 {
 
 h4 {
   font-size: 18px;
-  color: #ff1a1a;
+  color: #ffffff;
 }
 
 p {
@@ -220,7 +220,7 @@ nav {
   float: right;
   margin-top: 23px; // @TODO: Vertically middle align
   font-family: $helveticaNeue;
-  color: #ff6666;
+  color: #ff0000;
   font-size: 18px;
 
   @include mobile {
