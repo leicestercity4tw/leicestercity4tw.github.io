@@ -220,6 +220,7 @@ nav {
   float: right;
   margin-top: 23px; // @TODO: Vertically middle align
   font-family: $helveticaNeue;
+  color: #ff6666
   font-size: 18px;
 
   @include mobile {
@@ -230,7 +231,7 @@ nav {
   }
 
   a {
-    margin-left: 20px;
+    margin-left: 19px;
     color: #ffb3ff;
     text-align: right;
     font-weight: 300;
@@ -249,7 +250,7 @@ nav {
 
 .posts > .post {
   padding-bottom: 2em;
-  border-bottom: 1px solid $lightGray;
+  border-bottom: 1px solid #ff6666;
 }
 
 .posts > .post:last-child {
