@@ -160,6 +160,7 @@ img {
 
 .wrapper-masthead {
   margin-bottom: 50px;
+  color: #000000;
 }
 
 .masthead {
@@ -219,10 +220,10 @@ img {
 }
 
 nav {
-  float: right;
+  color: #ff0000;
+	float: right;
   margin-top: 23px; // @TODO: Vertically middle align
   font-family: $helveticaNeue;
-  color: #ff0000;
   font-size: 18px;
 
   @include mobile {
@@ -234,7 +235,7 @@ nav {
 
   a {
     margin-left: 18px;
-    color: #ffb3ff;
+    color: #ff0000;
     text-align: right;
     font-weight: 300;
     letter-spacing: 1px;
