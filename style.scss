@@ -28,8 +28,6 @@ body {
   font: 18px/1.4 $helvetica;
   color: #ffffff;
 	
-table {
-    border: 1px solid black;
 }
 
 .container {
@@ -300,4 +298,21 @@ footer {
 }
 
 @import "highlights";
-@import "svg-icons";
+@import "svg-icons";#
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+table, td {
+    padding: 15px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+
+table, th {
+    padding: 15px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
