@@ -131,11 +131,11 @@ img {
 // Specify the color of the selection
 ::-moz-selection {
   color: #ff0000;
-  background: #ff9999;
+  background: #ffc2b3;
 }
 ::selection {
   color: #ff0000;
-  background: #ff9999;
+  background: #ffc2b3;
 }
 
 // Nicolas Gallagher's micro clearfix hack
@@ -161,10 +161,11 @@ img {
 .wrapper-masthead {
   margin-bottom: 50px;
   color: #000000;
+  wrapper-attachment: fixed;
 }
 
 .masthead {
-  padding: 20px 0;
+  padding: 20px 5px;
   border-bottom: 1px solid #ffb3ff;
 
   @include mobile {
@@ -205,14 +206,14 @@ img {
   cursor: pointer;
   font-family: $helveticaNeue;
   font-weight: 300;
-  font-size: 28px;
+  font-size: 32px;
   letter-spacing: 1px;
 }
 
 .site-description {
   margin: -5px 0 0 0;
   color: #ffffff;
-  font-size: 16px;
+  font-size: 20px;
 
   @include mobile {
     margin: 3px 0;
@@ -221,10 +222,10 @@ img {
 
 nav {
   color: #ff0000;
-	float: right;
-  margin-top: 23px; // @TODO: Vertically middle align
+  float: right;
+  margin-top: 30px; // @TODO: Vertically middle align
   font-family: $helveticaNeue;
-  font-size: 18px;
+  font-size: 20px;
 
   @include mobile {
     float: none;
@@ -253,7 +254,7 @@ nav {
 
 .posts > .post {
   padding-bottom: 2em;
-  border-bottom: 1px solid #ff6666;
+  border-bottom: 1px dashed #ff0000;
 }
 
 .posts > .post:last-child {
