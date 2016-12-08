@@ -57,6 +57,7 @@ h1 {
   color: #ff0000;
   border-left: 6px solid #ff0000;
   border-bottom: 1px dashed #ff0000;
+  cursor: pointer;
   a {
     color: #ff0000;
   }
@@ -315,13 +316,6 @@ table, td {
     padding: 1px;
     text-align: left;
     border-bottom: 1px solid #ddd;
-}
-
-table, tr {
-    border-radius: 10px;
-    padding: 1px;
-    text-align: center;
-    border-bottom: 5px solid #ddd;
 }
 
 table, th {
