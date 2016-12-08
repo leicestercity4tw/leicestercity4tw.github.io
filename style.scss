@@ -30,11 +30,12 @@ body {
 	
 }
 
-.container {
+container {
   margin: 0 auto;
   max-width: 740px;
   padding: 0 10px;
-  width: 100%;
+  width: 80%;
+  background-color: rgb(255, 255, 255, 0.3)
 }
 
 h2, h3, h4, h5, h6 {
