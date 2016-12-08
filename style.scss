@@ -57,8 +57,7 @@ h2, h3, h4, h5, h6 {
 h1 {
   font-size: 32px;
   color: #ff0000;
-  border-left: 6px solid #ff0000;
-  border-bottom: 1px dashed #ff0000;
+  border-left: 8px solid #ff0000;
   cursor: pointer;
   padding: 15px;
   a {
@@ -315,7 +314,8 @@ footer {
 
 table {
     border-collapse: collapse;
-    width: 100%;
+    width: 90%;
+    align: center;
 }
 
 table, td {
