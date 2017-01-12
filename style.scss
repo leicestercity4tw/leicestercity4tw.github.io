@@ -319,24 +319,21 @@ table {
 }
 
 table, td {
-    border-radius: 10px;
     padding: 1px;
     text-align: left;
     border-bottom: 1px solid #ddd;
 }
 
 table, th {
-    border-radius: 10px;
     padding: 1px;
-    background: #ff6666;
+    background: #ff0000;
     text-align: left;
     border-bottom: 2px solid #ddd;
 }
 
 table, tm {
-    border-radius: 10px;
     padding: 1px;
-    background: #ff0000;
+    background: #ff6666;
     text-align: left;
     border-bottom: 1px solid #ddd;
     height: 50px;
