@@ -24,7 +24,7 @@ published: true
   </tr>
   <tr>
     <th>Target for this lesson?</th>
-    <td>To further my understanding of </td>
+    <td>To further my understanding of maths in computing</td>
   </tr>
   <tr>
     <th>Did I reach my target? </th>
