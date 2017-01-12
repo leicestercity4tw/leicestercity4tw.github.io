@@ -8,48 +8,50 @@ published: true
 ---
 <table>
   <tr>
-    <td>Title</td>
+    <th>Title</th>
     <td>Twelfth Lesson of Year 8</td>
-    <td>Date</td>
+    <th>Date</th>
     <td>5/1/17</td>
   </tr>
 </table>
 
 
+
 <table>
   <tr>
-    <td>Starting point:</td>
+    <th>Starting point:</th>
     <td>Very basic understanding of Boolean logic and how it is used</td>
   </tr>
   <tr>
-    <td>Target for this lesson?</td>
+    <th>Target for this lesson?</th>
     <td>To further my understanding of </td>
   </tr>
   <tr>
-    <td>Did I reach my target? </td>
+    <th>Did I reach my target? </th>
     <td>Yes</td>
   </tr>
 </table>
 
 
+
 <table>
   <tr>
-    <td>Lesson Review</td>
+    <tm>Lesson Review</tm>
   </tr>
   <tr>
-    <td>How did I learn? What strategies were effective? </td>
+    <th>How did I learn? What strategies were effective? </th>
   </tr>
   <tr>
     <td>This lesson was mainly just a recap on some of the maths involving computers that we learnt last year. So all I really had to do was listen intently.</td>
   </tr>
   <tr>
-    <td>What limited my learning? Which habits do I need to work on? </td>
+    <th>What limited my learning? Which habits do I need to work on? </th>
   </tr>
   <tr>
     <td>As my teacher was talking for most of the lesson I did seem to find myself losing concentration for a bit. This is really  dangerous as I will definitely need to know the important facts that my teacher tells me in the future.</td>
   </tr>
   <tr>
-    <td>What will I change for next time? How will I improve my learning?</td>
+    <th>What will I change for next time? How will I improve my learning?</th>
   </tr>
   <tr>
     <td>Next time I will try to get involved more by putting my hand up more often. </td>
