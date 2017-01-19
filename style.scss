@@ -332,9 +332,10 @@ table, th {
 }
 
 table, tm {
-    padding: 1px;
+    padding: 2px;
     background: #ff6666;
     text-align: left;
     border-bottom: 1px solid #ddd;
     height: 50px;
+    font-weight: bold;
 }
