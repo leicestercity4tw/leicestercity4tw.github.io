@@ -8,25 +8,25 @@ published: true
 ---
 <table>
   <tr>
-    <td>Title</td>
-    <td>Thirteenth Lesson of Year 8</td>
-    <td>Date</td>
-    <td>12/1/17</td>
+    <tm>Title</tm>
+    <th>Thirteenth Lesson of Year 8</th>
+    <tm>Date</tm>
+    <th>12/1/17</th>
   </tr>
 </table>
 
 
 <table>
   <tr>
-    <td>Starting point:</td>
+    <th>Starting point:</th>
     <td>An unhelpful work ethic</td>
   </tr>
   <tr>
-    <td>Target for this lesson?</td>
+    <th>Target for this lesson?</th>
     <td>To further my understanding of failure and how to use it to my benefit</td>
   </tr>
   <tr>
-    <td>Did I reach my target? </td>
+    <th>Did I reach my target? </th>
     <td>Yes</td>
   </tr>
 </table>
@@ -34,22 +34,22 @@ published: true
 
 <table>
   <tr>
-    <td>Lesson Review</td>
+    <tm>Lesson Review</tm>
   </tr>
   <tr>
-    <td>How did I learn? What strategies were effective? </td>
+    <th>How did I learn? What strategies were effective? </th>
   </tr>
   <tr>
     <td>This lesson was mainly set around improving the class' mentality towards failure in general. And how we can use that in school, especially when coding our blogs. We did this by watching a video about a japanese schoolchild trying to jump over a high box. It had a really deep underlying message: never give up, whatever the situation. </td>
   </tr>
   <tr>
-    <td>What limited my learning? Which habits do I need to work on? </td>
+    <th>What limited my learning? Which habits do I need to work on? </th>
   </tr>
   <tr>
     <td>After a while I seemed to stop taking the video seriously. This was really bad as it had a really strong message.</td>
   </tr>
   <tr>
-    <td>What will I change for next time? How will I improve my learning?</td>
+    <th>What will I change for next time? How will I improve my learning?</th>
   </tr>
   <tr>
     <td>Next time I will try to get involved more by putting my hand up more often. Engaging in the lesson is imperative for the knowledge to stick in my brain. </td>
