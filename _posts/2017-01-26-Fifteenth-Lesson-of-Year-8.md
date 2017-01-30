@@ -24,7 +24,7 @@ published: true
     <td>To get to 20% </td>
   </tr>
   <tr>
-    <hd>Did I reach my target? </th>
+    <th>Did I reach my target? </th>
     <td>No, I ended the lesson on 19*%</td>
   </tr>
 </table>
