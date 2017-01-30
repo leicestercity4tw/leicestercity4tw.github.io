@@ -8,23 +8,23 @@ published: true
 ---
 <table>
   <tr>
-    <td>Fifteenth Lesson of Year 8</td>
-    <td>19/1/17</td>
+    <tm>Fifteenth Lesson of Year 8</tm>
+    <tm>19/1/17</tm>
   </tr>
 </table>
 
 
 <table>
   <tr>
-    <td>Starting point:</td>
+    <th>Starting point:</th>
     <td>6% of Python on Codecademy completed</td>
   </tr>
   <tr>
-    <td>Target for this lesson?</td>
+    <th>Target for this lesson?</th>
     <td>To get to 20% </td>
   </tr>
   <tr>
-    <td>Did I reach my target? </td>
+    <hd>Did I reach my target? </th>
     <td>No, I ended the lesson on 19*%</td>
   </tr>
 </table>
@@ -32,22 +32,22 @@ published: true
 
 <table>
   <tr>
-    <td>Lesson Review</td>
+    <tm>Lesson Review</tm>
   </tr>
   <tr>
-    <td>How did I learn? What strategies were effective? </td>
+    <th>How did I learn? What strategies were effective? </th>
   </tr>
   <tr>
     <td>This lesson was - again - mainly set around the website https://www.codecademy.com/ which was really fun as it brought together education and games. </td>
   </tr>
   <tr>
-    <td>What limited my learning? Which habits do I need to work on? </td>
+    <th>What limited my learning? Which habits do I need to work on? </th>
   </tr>
   <tr>
     <td>After a while I seemed to stop taking the website seriously. In the later levels I didn't fully read the instruction, this was really bad as it was vital to my learning.</td>
   </tr>
   <tr>
-    <td>What will I change for next time? How will I improve my learning?</td>
+    <th>What will I change for next time? How will I improve my learning?</th>
   </tr>
   <tr>
     <td>Next time I will try not to get distracted by my friends or other people around me. It would greatly improve my learning as I would have completed more of the codecademy lesson. Also, the important tips would have then stuck in my mind.</td>
