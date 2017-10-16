@@ -319,9 +319,7 @@ table {
 }
 
 table, td {
-    padding: 1px;
-    text-align: left;
-    border-bottom: 1px solid #ddd;
+    text-align: center;
 }
 
 table, th {
@@ -332,9 +330,9 @@ table, th {
 
 table, tm {
     padding: 2px;
-    background: #ff6666;
+    background: #999999;
     text-align: center;
-    border-bottom: 6px solid #ddd;
+    border-bottom: 6px solid #000000;
     font-weight: bold;
     border-radius: 10px;
     font: 40px/1.4;
