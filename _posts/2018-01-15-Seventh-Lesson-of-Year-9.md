@@ -38,13 +38,13 @@ published: true
     <td>How did I learn? What strategies were effective?</td>
   </tr>
   <tr>
-    <td>This lesson was the third with our new teacher. I think it went really wellbecause the logic was really simple for me to understand while others took a while to wrap their heads around the question to a final answer format. Therefore I was able to answer lots of the teacher's qauestions which boosted my confidence a lot.</td>
+    <td>This lesson was the third with our new teacher. I think it went really well because the logic was really simple for me to understand while others took a while to wrap their heads around the question to a final answer format. Therefore I was able to answer lots of the teacher's questions which boosted my confidence a lot.</td>
   </tr>
   <tr>
     <td>What limited my learning? Which habits do I need to work on?</td>
   </tr>
   <tr>
-    <td>Again much like last lesson, I don’t think anything limited my learning. It was a really quite a good lesson because I decided not to speak anyone throughout the lesson. I think they have got the mesage thatI wopuld like to take this as a serious subject as it’s a viable option for GCSE.</td>
+    <td>Again much like last lesson, I don’t think anything limited my learning. It was a really quite a good lesson because I decided not to speak anyone throughout the lesson. I think they have got the message that I would like to take this as a serious subject as it’s a viable option for GCSE.</td>
   </tr>
   <tr>
     <td>What will I change for next time? How will I improve my learning?</td>
